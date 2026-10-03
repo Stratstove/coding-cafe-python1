@@ -1,0 +1,212 @@
+    1  pwd
+    2  ls
+    3  cd Desktop
+    4  mkdir Desktop
+    5  ls
+    6  clear
+    7  ls
+    8  ls -a
+    9  ls -l
+   10  touch notes.md
+   11  code notes.md
+   12  clear
+   13  mkdir coding-cafe-python
+   14  cd coding-cafe-python
+   15  touch notes.md
+   16  ls
+   17  pwd
+   18  mkdir week02
+   19  mkdir week01
+   20  mv notes.md week02/notes.md
+   21  ls
+   22  cd week02
+   23  ls
+   24  clear
+   25  ls
+   26  clear
+   27  cd coding-cafe-python
+   28  cd ..
+   29  ls
+   30  clear
+   31  ls
+   32  pwd
+   33  clear
+   34  cd..
+   35  clear
+   36  cd ..
+   37  clear
+   38  ls
+   39  cd coding-cafe-python
+   40  ls
+   41  cd week02
+   42  ls
+   43  nano notes.md
+   44  clear
+   45  pwd
+   46  ls
+   47  ls -a
+   48  ls -l
+   49  nano notes.md
+   50  ls coding-cafe-python week02
+   51  ls
+   52  cd ..
+   53  ls
+   54  cd ..
+   55  ls
+   56  ls coding-cafe-python week02
+   57  ls
+   58  ls coding-cafe-python/week02
+   59  nano notes.md
+   60  cd ..
+   61  ls
+   62  cd coding-cafe-python
+   63  cd desktop
+   64  nano notes.md
+   65  ls
+   66  cd coding-cafe-python
+   67  cd week02
+   68  ls
+   69  nano notes.md
+   70  clear
+   71  ls
+   72  c..
+   73  clear
+   74  cd ..
+   75  ls
+   76  cd ..
+   77  ls
+   78  clear
+   79  ls
+   80  nano notes.md
+   81  clear
+   82  ls
+   83  cd coding_cafe_python
+   84  pwd
+   85  cd desktop
+   86  clear
+   87  pwd
+   88  ls
+   89  ls coding-cafe-python
+   90  cd coding-cafe-python
+   91  cd week02
+   92  ls week02
+   93  clear
+   94  cd ..
+   95  ls
+   96  nano notes.md
+   97  clear
+   98  ls
+   99  rm -i notes.md
+  100  clear
+  101  ls
+  102  clear
+  103  cd coding-cafe-python
+  104  cd week02
+  105  ls
+  106  nano notes.md
+  107  ls
+  108  cd ..
+  109  ls
+  110  cd ..
+  111  ls
+  112  cd coding-cafe-python
+  113  ni README.md
+  114  touch README.md
+  115  ls
+  116  ls -Recurse coding-cafe-python
+  117  ls
+  118  cd week02
+  119  ls
+  120  cd ..
+  121  ls
+  122  pwd
+  123  cp README.md README-backup.mp
+  124  mv README-backup.md week01
+  125  pwd
+  126  ls
+  127  rm -i README-backup.mp
+  128  ls
+  129  cp README.md README-backup.md
+  130  ls
+  131  mv README-backup.md week01
+  132  ls
+  133  cd week01
+  134  ls
+  135  mv README-backup.md old-readme.md
+  136  ls
+  137  cd ..
+  138  ls
+  139  cd week02
+  140  nano notes.md
+  141  ls
+  142  cd..
+  143  cd ..
+  144  ls
+  145  cd week01
+  146  ls
+  147  rm old-readme.md
+  148  ls
+  149  pwd
+  150  cd ..
+  151  ls
+  152  $env:Path
+  153  cd week01
+  154  ls
+  155  env:Path
+  156  $env:Path
+  157  echo $PATH
+  158  which python3
+  159  which pip
+  160  which ls
+  161  cd ..
+  162  cd week02
+  163  nano notes.md
+  164  cd ..
+  165  pyton3
+  166  cd week02
+  167  nano notes.md
+  168  cd ~/coding-cafe-python
+  169  python3 -m venv .venv
+  170  sudo apt install python3.14-venv
+  171  sudo apt update
+  172  sudo apt install python3.14-venv
+  173  ls
+  174  ls -a
+  175  cd week02
+  176  nano notes.md
+  177  cd ..
+  178  source .venv/bin/activate
+  179  pwd
+  180  ls -a
+  181  ls .venv
+  182  ls .venv/bin
+  183  rm -rf .venv
+  184  ls -a
+  185  python3 -m venv .venv
+  186  ls -a
+  187  ls .venv/bin
+  188  souce .venv/bin/activate
+  189  source .venv/bin/activate
+  190  ls
+  191  cd week02
+  192  nano notes.md
+  193  cd ..
+  194  which python3
+  195  cd week02
+  196  nano notes.md
+  197  pip list
+  198  pip install requests
+  199  pip list
+  200  nano notes.md
+  201  deactivate
+  202  which python3
+  203  nano notes.md
+  204  man ls
+  205  nano notes.md
+  206  man man
+  207  history
+  208  python2
+  209  python3
+  210  nano notes.md
+  211  cd ..
+  212  history >week02/lab01-log.txt
