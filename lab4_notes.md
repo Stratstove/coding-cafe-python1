@@ -16,3 +16,8 @@ model, it has moved from "Staging Area" to "Working Repository"
 7) After commit, the output was the "title" (analogous). Then, 4 files changed, with 244 insertions. 
 
 8) The first 7 characters are: 95b67d1. They are most probably an unique identification for my commit. 
+
+9) checked the status of the git repositories; added the new notes file into "Working repository"; then commited the new notes
+file; then checked the commit ID. 
+
+10) because README is ideally meant to be read by users (we can consider it analogous to a website)
