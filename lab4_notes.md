@@ -13,4 +13,6 @@ repositories, not just the current one. without it, to configure all repositorie
 6) in the git status Output, README.md moved from "Untracked files" to "Changes to be committed". Here, relative to 3 places
 model, it has moved from "Staging Area" to "Working Repository"
 
-7)  
+7) After commit, the output was the "title" (analogous). Then, 4 files changed, with 244 insertions. 
+
+8) The first 7 characters are: 95b67d1. They are most probably an unique identification for my commit. 
