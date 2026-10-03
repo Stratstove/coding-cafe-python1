@@ -21,3 +21,11 @@ model, it has moved from "Staging Area" to "Working Repository"
 file; then checked the commit ID. 
 
 10) because README is ideally meant to be read by users (we can consider it analogous to a website)
+
+11) it provided me with an OTP
+
+12) Currently it shows me the README file on the front page. Im not sure why only README.md is being shown
+
+13) Local history now contains origin/master
+
+14)  
